@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/ponisworld/decima_sesion_obc/issues"
   },
-  "homepage": "https://github.com/ponisworld/decima_sesion_obc#readme"
+  "homepage": "https://github.com/ponisworld/decima_sesion_obc#readme",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
 }
